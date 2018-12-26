@@ -2,4 +2,5 @@
 A bundle of my bars and pee/poop.
 
 Just pull the maps out of the bundle and replace with yours.
-Screenshot in the download.
+
+Screenshot is in the download.
